@@ -149,3 +149,4 @@ kubectl apply -f k8s/deployment.yaml
 - Health check: `GET /health`
 - Metrics: `GET /metrics`
 - Status: `GET /api/v1/status`
+<!-- fix: addresses issue #333 - [Testing] Missing benchmark for maximum number of feeds the oracle can handle -->
